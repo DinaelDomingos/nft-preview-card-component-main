@@ -20,7 +20,9 @@ body {
     background-color: var(--veryDarkBlueMainBG);
 }
 main {
-    height: 90vh;
+    display: flex;
+    place-items: center;
+    height: 100vh;
 }
 
 .principal {
