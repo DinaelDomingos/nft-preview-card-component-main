@@ -30,14 +30,10 @@ main {
     max-width: 19.1rem;
     margin: auto;
     padding: 1rem;
-    border-radius: 20px;
-    /* display: flex;
-    flex-direction: column;
-    align-items: center; */
+    border-radius: 20px;    
 }
 
 .image {
-    /* width: 100%; */
     border-radius: 15px;
     overflow: hidden;
     position: relative;
@@ -45,7 +41,6 @@ main {
 }
 
 .image img {
-    /* width: 100%; */
     display: block;
 }
 
@@ -185,7 +180,7 @@ hr {
 }
 
 .attribution { 
-    font-size: 11px;
+    font-size: 12px;
     text-align: center;
     color: var(--white);
 }
