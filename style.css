@@ -181,6 +181,7 @@ hr {
 
 .attribution { 
     font-size: 12px;
+    font-family: 'Outfit', sans-serif;
     text-align: center;
     color: var(--white);
 }
