@@ -1,7 +1,7 @@
 # Projeto: nft-preview-card-component
 
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20FINALIZADO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 
  Esta é uma solução para o desafio do componente de cartão de visualização NFT no Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).  Este é meu segundo desafio e eles têm me ajudado muito para melhorar minhas habilidades em HTML e CSS.
