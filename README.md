@@ -1,10 +1,10 @@
-# Projeto: nft-preview-card-component
+# Projeto: NFT Preview Card Component
 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 
- Esta é uma solução para o desafio do componente de cartão de visualização NFT no Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).  Este é meu segundo desafio e eles têm me ajudado muito para melhorar minhas habilidades em HTML e CSS.
+ Este repositório contém minha solução para o desafio **NFT Preview Card Component** no [Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Foi o meu segundo desafio completado, e tem sido uma grande experiência para melhorar minhas habilidades com **HTML** e **CSS**.
 
  ## Índice
 
@@ -20,32 +20,52 @@
 
 ## Visao Geral
 
-Este é meu primeiro trabalho desenvolvido a partir dos desafios propostos no site [Frontend Mentor](https://www.frontendmentor.io/home). Os desafios do Frontend Mentor ajudam a melhorar minhas habilidades em HTML, CSS e JavaScript. 
+Este é o segundo projeto que completei através dos desafios do [Frontend Mentor](https://www.frontendmentor.io/home). Esses desafios têm sido ferramentas incríveis para aprimorar minhas habilidades em **Desenvolvimento Front-End**, especialmente em **HTML** e **CSS**. 
+
+O objetivo do desafio era criar um componente de cartão de pré-visualização de NFT, responsivo e com design atraente, utilizando boas práticas de codificação.
 
 ## Meu processo
 
-Por tratar-se ainda de um trabalho inicial, o segundo na verdade, e por estar no inicio de meus estudos em Front-End, optei por um desafio de nível iniciante. Este desafio exigiu somente HTML e CSS e é perfeito para quem está começando a construir projetos responsivos. O projeto propunha a construção de 02 versões de página: uma **mobile**, com largura de 375px e uma **desktop**, com largura de 1440px. Usei Flebox em quase todos os elementos DIV.
+Escolhi este desafio por ser de nível iniciante, já que estou no começo da minha jornada em Front-End. O projeto exigiu apenas **HTML** e **CSS**, sendo ideal para praticar a responsividade e o alinhamento de elementos.
 
-Minha maior dificuldade foi com o efeito overlay para a DIV .image. Eu não me lembrava de como aplicar o efeito e foi necessário pesquisar em outras soluções prontas para poder entregar o projeto final. Mas no final foi um grande aprendizado.
+### Objetivos do Projeto
 
-## Construido com
+1. Criar uma **versão mobile** com largura de 375px.
+2. Construir uma **versão desktop** com largura de 1440px.
 
-<img loading="lazy" src="https://img.shields.io/badge/FERRAMENTAS-HTMl5_e_CSS3-yellow">
-<img loading="lazy" src="https://img.shields.io/badge/WORKFLOW-Mobile_First-blue">
+A maior parte do layout foi estruturada utilizando **Flexbox**, o que facilitou o alinhamento dos componentes.
 
-### O que eu aprendi
+### Desafios Encontrados
 
-Meu principal aprendizado neste desafio foi aplicar o efeito overlay.
+A maior dificuldade foi aplicar o efeito **overlay** na classe `.image`. Para superar esse obstáculo, consultei soluções existentes na internet, o que me levou a um aprendizado significativo sobre essa técnica.
+
+## Construído Com
+
+<img loading="lazy" src="https://img.shields.io/badge/FERRAMENTAS-HTMl5_e_CSS3-yellow" alt="Ferramentas: HTML e CSS">
+<img loading="lazy" src="https://img.shields.io/badge/WORKFLOW-Mobile_First-blue" alt="Workflow Mobile First">
+
+- **HTML5**
+- **CSS3**
+- **Abordagem Mobile First**
+
+## O Que Eu Aprendi
+
+Este desafio me ensinou a aplicar o efeito **overlay** de forma eficaz nos elementos. Abaixo está um exemplo do código utilizado:
+
+```css
+.image-container:hover .image-overlay {
+  opacity: 1;
+}
 
 ### Desenvolvimento continuo
 
-Pretendo fazer outros desafio de maior complexidade afim de fixar todo o conhecimento abordado durante o curso. Também planejo fazer um curso de JavaScript, linguagem fundamental para o desenvolvimento de páginas Web.
+Pretendo me desafiar com projetos mais complexos para reforçar os conhecimentos adquiridos. Também planejo iniciar um curso de JavaScript, essencial para o desenvolvimento de interfaces mais dinâmicas e interativas.
 
 ### Recursos uteis
 
-- [Fonte 1: Plataforma Cursos em Videos](https://www.cursoemvideo.com) - Foi aqui que adquiri meus primeiros conhecimentos sobre Desenvolvimento Web.
-- [Fonte 2: Plataforma Alura](https://www.alura.com.br) - Plataforma de cursos de tecnologia extraordinária. Bebo todos os dias desta fonte de conhecimento.
-- [Fonte 3: Site e livros do Maujor](https://maujor.com/) - Site e livros fundamental para o aprendizado da Linguagem HTML e CSS;
+- [Fonte 1: Plataforma Cursos em Videos](https://www.cursoemvideo.com) - Plataforma excelente para iniciantes.
+- [Fonte 2: Plataforma Alura](https://www.alura.com.br) - Ótima plataforma de aprendizado para tecnologias diversas.
+- [Fonte 3: Site e livros do Maujor](https://maujor.com/) - Recursos valiosos para entender HTML e CSS.
 
 ## Autor
 
@@ -54,4 +74,4 @@ Pretendo fazer outros desafio de maior complexidade afim de fixar todo o conheci
 
 ## Agradecimentos
 
-Agradeço ao Professor Gustavo Guanabara [@gustavoguanabara](https:/instagram.com/gustavoguanabara), fundador do site [Curso em Video](https://www.cursoemvideo.com). Foi através de seus cursos de HTML e CSS, na sua versão antiga e na atual, que entrei para o maravilhoso mundo do front-end.
+Gostaria de agradecer ao Professor Gustavo Guanabara [@gustavoguanabara](https:/instagram.com/gustavoguanabara), criador do site [Curso em Video](https://www.cursoemvideo.com). Foi através de seus cursos que descobri minha paixão pelo Front-End e iniciei minha jornada no desenvolvimento web.
