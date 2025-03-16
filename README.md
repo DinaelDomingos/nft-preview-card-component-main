@@ -56,6 +56,7 @@ Este desafio me ensinou a aplicar o efeito **overlay** de forma eficaz nos eleme
 .image-container:hover .image-overlay {
   opacity: 1;
 }
+```
 
 ### Desenvolvimento continuo
 
