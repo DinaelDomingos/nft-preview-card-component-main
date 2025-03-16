@@ -26,7 +26,7 @@ O objetivo do desafio era criar um componente de cartão de pré-visualização 
 
 ## Captura de Tela
 
-![Captura de Tela](/nft-preview-card-component-main/ScreenShot%20-%20Projeto_%20NFT%20preview%20card%20component.png)
+![Captura de Tela](/ScreenShot%20-%20Projeto_%20NFT%20preview%20card%20component.png)
 
 ## Meu processo
 
