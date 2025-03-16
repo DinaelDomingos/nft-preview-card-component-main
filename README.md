@@ -24,6 +24,10 @@ Este é o segundo projeto que completei através dos desafios do [Frontend Mento
 
 O objetivo do desafio era criar um componente de cartão de pré-visualização de NFT, responsivo e com design atraente, utilizando boas práticas de codificação.
 
+## Captura de Tela
+
+![Captura de Tela](/nft-preview-card-component-main/ScreenShot%20-%20Projeto_%20NFT%20preview%20card%20component.png)
+
 ## Meu processo
 
 Escolhi este desafio por ser de nível iniciante, já que estou no começo da minha jornada em Front-End. O projeto exigiu apenas **HTML** e **CSS**, sendo ideal para praticar a responsividade e o alinhamento de elementos.
