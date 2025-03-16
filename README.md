@@ -4,7 +4,7 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 
- Este repositório contém minha solução para o desafio **NFT Preview Card Component** no [Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Foi o meu segundo desafio completado, e tem sido uma grande experiência para melhorar minhas habilidades com **HTML** e **CSS**.
+ Este repositório contém minha solução para o desafio **NFT Preview Card Component** no [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-yKg7NHuLPi). Foi o meu segundo desafio completado, e tem sido uma grande experiência para melhorar minhas habilidades com **HTML** e **CSS**.
 
  ## Índice
 
