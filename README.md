@@ -48,9 +48,6 @@ A maior dificuldade foi aplicar o efeito **overlay** na classe `.image`. Para su
 <img loading="lazy" src="https://img.shields.io/badge/FERRAMENTAS-HTMl5_e_CSS3-yellow" alt="Ferramentas: HTML e CSS">
 <img loading="lazy" src="https://img.shields.io/badge/WORKFLOW-Mobile_First-blue" alt="Workflow Mobile First">
 
-- **HTML5**
-- **CSS3**
-- **Abordagem Mobile First**
 
 ## O Que Eu Aprendi
 
